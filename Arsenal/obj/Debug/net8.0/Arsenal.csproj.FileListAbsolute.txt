@@ -1,0 +1,14 @@
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\bin\Debug\net8.0\Arsenal.exe
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\bin\Debug\net8.0\Arsenal.deps.json
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\bin\Debug\net8.0\Arsenal.runtimeconfig.json
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\bin\Debug\net8.0\Arsenal.dll
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\bin\Debug\net8.0\Arsenal.pdb
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.AssemblyInfoInputs.cache
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.AssemblyInfo.cs
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.csproj.CoreCompileInputs.cache
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.dll
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\obj\Debug\net8.0\refint\Arsenal.dll
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.pdb
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\obj\Debug\net8.0\Arsenal.genruntimeconfig.cache
+c:\Users\alice.grissom\Prog2\Arsenal\Arsenal\obj\Debug\net8.0\ref\Arsenal.dll
